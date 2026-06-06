@@ -1,0 +1,641 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<catalog xmlns="http://www.demandware.com/xml/impex/catalog/2006-10-31" catalog-id="market-storefront">
+    <header>
+        <image-settings>
+            <internal-location base-path="/"/>
+            <view-types>
+                <view-type>large</view-type>
+                <view-type>medium</view-type>
+                <view-type>small</view-type>
+                <view-type>swatch</view-type>
+            </view-types>
+            <variation-attribute-id>color</variation-attribute-id>
+            <alt-pattern>${productname}, ${variationvalue}, ${viewtype}</alt-pattern>
+            <title-pattern>${productname}, ${variationvalue}</title-pattern>
+        </image-settings>
+    </header>
+
+    <category category-id="root">
+        <display-name xml:lang="x-default">Market Street</display-name>
+        <online-flag>true</online-flag>
+        <template/>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="showInMenu">false</custom-attribute>
+        </custom-attributes>
+        <refinement-definitions>
+            <refinement-definition type="category" bucket-type="none">
+                <display-name xml:lang="x-default">Kategorie</display-name>
+                <sort-mode>value-name</sort-mode>
+                <sort-direction>descending</sort-direction>
+                <cutoff-threshold>5</cutoff-threshold>
+            </refinement-definition>
+            <refinement-definition type="price" bucket-type="thresholds">
+                <display-name xml:lang="x-default">Preis</display-name>
+                <sort-mode>value-name</sort-mode>
+                <sort-direction>ascending</sort-direction>
+                <cutoff-threshold>0</cutoff-threshold>
+                <bucket-definitions>
+                    <price-bucket currency="USD">
+                        <display-name xml:lang="x-default">$0 - $49.99</display-name>
+                        <threshold>50.0</threshold>
+                    </price-bucket>
+                    <price-bucket currency="USD">
+                        <display-name xml:lang="x-default">$50 - $99.99</display-name>
+                        <threshold>100.0</threshold>
+                    </price-bucket>
+                    <price-bucket currency="USD">
+                        <display-name xml:lang="x-default">$100 - $199.99</display-name>
+                        <threshold>200.0</threshold>
+                    </price-bucket>
+                    <price-bucket currency="USD">
+                        <display-name xml:lang="x-default">$200+</display-name>
+                        <threshold>999999.0</threshold>
+                    </price-bucket>
+                </bucket-definitions>
+            </refinement-definition>
+        </refinement-definitions>
+    </category>
+
+    <category category-id="women">
+        <display-name xml:lang="x-default">Damen</display-name>
+        <online-flag>true</online-flag>
+        <parent>root</parent>
+        <position>1.0</position>
+        <template>rendering/category/catLanding</template>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="enableCompare">false</custom-attribute>
+            <custom-attribute attribute-id="showInMenu">true</custom-attribute>
+        </custom-attributes>
+    </category>
+
+    <category category-id="womens-accessories">
+        <display-name xml:lang="x-default">Accessoires</display-name>
+        <online-flag>true</online-flag>
+        <parent>women</parent>
+        <template>rendering/category/catListing</template>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="enableCompare">false</custom-attribute>
+            <custom-attribute attribute-id="showInMenu">true</custom-attribute>
+        </custom-attributes>
+    </category>
+
+    <category category-id="womens-bags">
+        <display-name xml:lang="x-default">Taschen</display-name>
+        <online-flag>true</online-flag>
+        <parent>women</parent>
+        <template>rendering/category/catListing</template>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="enableCompare">false</custom-attribute>
+            <custom-attribute attribute-id="showInMenu">true</custom-attribute>
+        </custom-attributes>
+    </category>
+
+    <category category-id="womens-bottoms">
+        <display-name xml:lang="x-default">Hosen</display-name>
+        <online-flag>true</online-flag>
+        <parent>women</parent>
+        <template>rendering/category/catListing</template>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="enableCompare">false</custom-attribute>
+            <custom-attribute attribute-id="showInMenu">true</custom-attribute>
+        </custom-attributes>
+    </category>
+
+    <category category-id="womens-dresses">
+        <display-name xml:lang="x-default">Kleider</display-name>
+        <online-flag>true</online-flag>
+        <parent>women</parent>
+        <template>rendering/category/catListing</template>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="enableCompare">false</custom-attribute>
+            <custom-attribute attribute-id="showInMenu">true</custom-attribute>
+        </custom-attributes>
+    </category>
+
+    <category category-id="womens-knitwear">
+        <display-name xml:lang="x-default">Strickwaren</display-name>
+        <online-flag>true</online-flag>
+        <parent>women</parent>
+        <template>rendering/category/catListing</template>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="enableCompare">false</custom-attribute>
+            <custom-attribute attribute-id="showInMenu">true</custom-attribute>
+        </custom-attributes>
+    </category>
+
+    <category category-id="womens-new-in">
+        <display-name xml:lang="x-default">Neuheiten</display-name>
+        <online-flag>true</online-flag>
+        <parent>women</parent>
+        <template>rendering/category/catListing</template>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="enableCompare">false</custom-attribute>
+            <custom-attribute attribute-id="showInMenu">true</custom-attribute>
+        </custom-attributes>
+    </category>
+
+    <category category-id="womens-outerwear">
+        <display-name xml:lang="x-default">Oberbekleidung</display-name>
+        <online-flag>true</online-flag>
+        <parent>women</parent>
+        <template>rendering/category/catListing</template>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="enableCompare">false</custom-attribute>
+            <custom-attribute attribute-id="showInMenu">true</custom-attribute>
+        </custom-attributes>
+    </category>
+
+    <category category-id="womens-shoes">
+        <display-name xml:lang="x-default">Schuhe</display-name>
+        <online-flag>true</online-flag>
+        <parent>women</parent>
+        <template>rendering/category/catListing</template>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="enableCompare">false</custom-attribute>
+            <custom-attribute attribute-id="showInMenu">true</custom-attribute>
+        </custom-attributes>
+    </category>
+
+    <category category-id="womens-tops">
+        <display-name xml:lang="x-default">Oberteile</display-name>
+        <online-flag>true</online-flag>
+        <parent>women</parent>
+        <template>rendering/category/catListing</template>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="enableCompare">false</custom-attribute>
+            <custom-attribute attribute-id="showInMenu">true</custom-attribute>
+        </custom-attributes>
+    </category>
+
+    <category category-id="men">
+        <display-name xml:lang="x-default">Herren</display-name>
+        <online-flag>true</online-flag>
+        <parent>root</parent>
+        <position>2.0</position>
+        <template>rendering/category/catLanding</template>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="enableCompare">false</custom-attribute>
+            <custom-attribute attribute-id="showInMenu">true</custom-attribute>
+        </custom-attributes>
+    </category>
+
+    <category category-id="mens-accessories">
+        <display-name xml:lang="x-default">Accessoires</display-name>
+        <online-flag>true</online-flag>
+        <parent>men</parent>
+        <template>rendering/category/catListing</template>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="enableCompare">false</custom-attribute>
+            <custom-attribute attribute-id="showInMenu">true</custom-attribute>
+        </custom-attributes>
+    </category>
+
+    <category category-id="mens-bags">
+        <display-name xml:lang="x-default">Taschen</display-name>
+        <online-flag>true</online-flag>
+        <parent>men</parent>
+        <template>rendering/category/catListing</template>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="enableCompare">false</custom-attribute>
+            <custom-attribute attribute-id="showInMenu">true</custom-attribute>
+        </custom-attributes>
+    </category>
+
+    <category category-id="mens-knitwear">
+        <display-name xml:lang="x-default">Strickwaren</display-name>
+        <online-flag>true</online-flag>
+        <parent>men</parent>
+        <template>rendering/category/catListing</template>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="enableCompare">false</custom-attribute>
+            <custom-attribute attribute-id="showInMenu">true</custom-attribute>
+        </custom-attributes>
+    </category>
+
+    <category category-id="mens-new-in">
+        <display-name xml:lang="x-default">Neuheiten</display-name>
+        <online-flag>true</online-flag>
+        <parent>men</parent>
+        <template>rendering/category/catListing</template>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="enableCompare">false</custom-attribute>
+            <custom-attribute attribute-id="showInMenu">true</custom-attribute>
+        </custom-attributes>
+    </category>
+
+    <category category-id="mens-outerwear">
+        <display-name xml:lang="x-default">Oberbekleidung</display-name>
+        <online-flag>true</online-flag>
+        <parent>men</parent>
+        <template>rendering/category/catListing</template>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="enableCompare">false</custom-attribute>
+            <custom-attribute attribute-id="showInMenu">true</custom-attribute>
+        </custom-attributes>
+    </category>
+
+    <category category-id="mens-shirts">
+        <display-name xml:lang="x-default">Hemden</display-name>
+        <online-flag>true</online-flag>
+        <parent>men</parent>
+        <template>rendering/category/catListing</template>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="enableCompare">false</custom-attribute>
+            <custom-attribute attribute-id="showInMenu">true</custom-attribute>
+        </custom-attributes>
+    </category>
+
+    <category category-id="mens-shoes">
+        <display-name xml:lang="x-default">Schuhe</display-name>
+        <online-flag>true</online-flag>
+        <parent>men</parent>
+        <template>rendering/category/catListing</template>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="enableCompare">false</custom-attribute>
+            <custom-attribute attribute-id="showInMenu">true</custom-attribute>
+        </custom-attributes>
+    </category>
+
+    <category category-id="mens-trousers">
+        <display-name xml:lang="x-default">Hosen</display-name>
+        <online-flag>true</online-flag>
+        <parent>men</parent>
+        <template>rendering/category/catListing</template>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="enableCompare">false</custom-attribute>
+            <custom-attribute attribute-id="showInMenu">true</custom-attribute>
+        </custom-attributes>
+    </category>
+
+    <category category-id="mens-tshirts-polos">
+        <display-name xml:lang="x-default">T-Shirts &amp; Poloshirts</display-name>
+        <online-flag>true</online-flag>
+        <parent>men</parent>
+        <template>rendering/category/catListing</template>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="enableCompare">false</custom-attribute>
+            <custom-attribute attribute-id="showInMenu">true</custom-attribute>
+        </custom-attributes>
+    </category>
+
+    <category category-id="kids">
+        <display-name xml:lang="x-default">Kinder</display-name>
+        <online-flag>true</online-flag>
+        <parent>root</parent>
+        <position>3.0</position>
+        <template>rendering/category/catLanding</template>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="enableCompare">false</custom-attribute>
+            <custom-attribute attribute-id="showInMenu">true</custom-attribute>
+        </custom-attributes>
+    </category>
+
+    <category category-id="kids-accessories">
+        <display-name xml:lang="x-default">Accessoires</display-name>
+        <online-flag>true</online-flag>
+        <parent>kids</parent>
+        <template>rendering/category/catListing</template>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="enableCompare">false</custom-attribute>
+            <custom-attribute attribute-id="showInMenu">true</custom-attribute>
+        </custom-attributes>
+    </category>
+
+    <category category-id="kids-baby">
+        <display-name xml:lang="x-default">Baby</display-name>
+        <online-flag>true</online-flag>
+        <parent>kids</parent>
+        <template>rendering/category/catListing</template>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="enableCompare">false</custom-attribute>
+            <custom-attribute attribute-id="showInMenu">true</custom-attribute>
+        </custom-attributes>
+    </category>
+
+    <category category-id="kids-boys">
+        <display-name xml:lang="x-default">Jungen</display-name>
+        <online-flag>true</online-flag>
+        <parent>kids</parent>
+        <template>rendering/category/catListing</template>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="enableCompare">false</custom-attribute>
+            <custom-attribute attribute-id="showInMenu">true</custom-attribute>
+        </custom-attributes>
+    </category>
+
+    <category category-id="kids-girls">
+        <display-name xml:lang="x-default">Mädchen</display-name>
+        <online-flag>true</online-flag>
+        <parent>kids</parent>
+        <template>rendering/category/catListing</template>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="enableCompare">false</custom-attribute>
+            <custom-attribute attribute-id="showInMenu">true</custom-attribute>
+        </custom-attributes>
+    </category>
+
+    <category category-id="kids-new-in">
+        <display-name xml:lang="x-default">Neuheiten</display-name>
+        <online-flag>true</online-flag>
+        <parent>kids</parent>
+        <template>rendering/category/catListing</template>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="enableCompare">false</custom-attribute>
+            <custom-attribute attribute-id="showInMenu">true</custom-attribute>
+        </custom-attributes>
+    </category>
+
+    <category category-id="kids-shoes">
+        <display-name xml:lang="x-default">Schuhe</display-name>
+        <online-flag>true</online-flag>
+        <parent>kids</parent>
+        <template>rendering/category/catListing</template>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="enableCompare">false</custom-attribute>
+            <custom-attribute attribute-id="showInMenu">true</custom-attribute>
+        </custom-attributes>
+    </category>
+
+    <category-assignment category-id="kids-accessories" product-id="kids-backpack"/>
+
+    <category-assignment category-id="kids-accessories" product-id="kids-beanie"/>
+
+    <category-assignment category-id="kids-accessories" product-id="kids-belt"/>
+
+    <category-assignment category-id="kids-accessories" product-id="kids-gloves"/>
+
+    <category-assignment category-id="kids-accessories" product-id="kids-scarf"/>
+
+    <category-assignment category-id="kids-baby" product-id="baby-cardigan"/>
+
+    <category-assignment category-id="kids-baby" product-id="baby-dress"/>
+
+    <category-assignment category-id="kids-baby" product-id="baby-onesie"/>
+
+    <category-assignment category-id="kids-baby" product-id="baby-pants"/>
+
+    <category-assignment category-id="kids-baby" product-id="baby-romper"/>
+
+    <category-assignment category-id="kids-boys" product-id="boys-button-shirt"/>
+
+    <category-assignment category-id="kids-boys" product-id="boys-chino-pants"/>
+
+    <category-assignment category-id="kids-boys" product-id="boys-polo-shirt"/>
+
+    <category-assignment category-id="kids-boys" product-id="boys-shorts"/>
+
+    <category-assignment category-id="kids-boys" product-id="boys-sweater"/>
+
+    <category-assignment category-id="kids-girls" product-id="girls-cardigan"/>
+
+    <category-assignment category-id="kids-girls" product-id="girls-denim-jeans"/>
+
+    <category-assignment category-id="kids-girls" product-id="girls-floral-dress"/>
+
+    <category-assignment category-id="kids-girls" product-id="girls-leggings"/>
+
+    <category-assignment category-id="kids-girls" product-id="girls-tutu-skirt"/>
+
+    <category-assignment category-id="kids-new-in" product-id="kids-denim-jacket"/>
+
+    <category-assignment category-id="kids-new-in" product-id="kids-graphic-tee"/>
+
+    <category-assignment category-id="kids-new-in" product-id="kids-hoodie"/>
+
+    <category-assignment category-id="kids-new-in" product-id="kids-joggers"/>
+
+    <category-assignment category-id="kids-new-in" product-id="kids-puffer-jacket"/>
+
+    <category-assignment category-id="kids-shoes" product-id="kids-boots"/>
+
+    <category-assignment category-id="kids-shoes" product-id="kids-mary-janes"/>
+
+    <category-assignment category-id="kids-shoes" product-id="kids-sandals"/>
+
+    <category-assignment category-id="kids-shoes" product-id="kids-slip-ons"/>
+
+    <category-assignment category-id="kids-shoes" product-id="kids-sneakers"/>
+
+    <category-assignment category-id="mens-accessories" product-id="mens-leather-belt"/>
+
+    <category-assignment category-id="mens-accessories" product-id="mens-leather-wallet"/>
+
+    <category-assignment category-id="mens-accessories" product-id="mens-silk-tie"/>
+
+    <category-assignment category-id="mens-accessories" product-id="mens-sunglasses"/>
+
+    <category-assignment category-id="mens-accessories" product-id="mens-wool-scarf"/>
+
+    <category-assignment category-id="mens-bags" product-id="mens-backpack"/>
+
+    <category-assignment category-id="mens-bags" product-id="mens-leather-briefcase"/>
+
+    <category-assignment category-id="mens-bags" product-id="mens-messenger-bag"/>
+
+    <category-assignment category-id="mens-bags" product-id="mens-toiletry-bag"/>
+
+    <category-assignment category-id="mens-bags" product-id="mens-weekend-bag"/>
+
+    <category-assignment category-id="mens-knitwear" product-id="mens-cable-knit"/>
+
+    <category-assignment category-id="mens-knitwear" product-id="mens-cardigan"/>
+
+    <category-assignment category-id="mens-knitwear" product-id="mens-merino-sweater"/>
+
+    <category-assignment category-id="mens-knitwear" product-id="mens-turtleneck"/>
+
+    <category-assignment category-id="mens-knitwear" product-id="mens-zip-sweater"/>
+
+    <category-assignment category-id="mens-new-in" product-id="mens-chelsea-boots"/>
+
+    <category-assignment category-id="mens-new-in" product-id="mens-knit-polo"/>
+
+    <category-assignment category-id="mens-new-in" product-id="mens-leather-jacket"/>
+
+    <category-assignment category-id="mens-new-in" product-id="mens-relaxed-fit-tee"/>
+
+    <category-assignment category-id="mens-new-in" product-id="mens-slim-chinos"/>
+
+    <category-assignment category-id="mens-new-in" product-id="mens-tailored-blazer"/>
+
+    <category-assignment category-id="mens-outerwear" product-id="mens-bomber-jacket"/>
+
+    <category-assignment category-id="mens-outerwear" product-id="mens-denim-jacket"/>
+
+    <category-assignment category-id="mens-outerwear" product-id="mens-puffer-jacket"/>
+
+    <category-assignment category-id="mens-outerwear" product-id="mens-trench-coat"/>
+
+    <category-assignment category-id="mens-outerwear" product-id="mens-wool-overcoat"/>
+
+    <category-assignment category-id="mens-shirts" product-id="mens-denim-shirt"/>
+
+    <category-assignment category-id="mens-shirts" product-id="mens-dress-shirt"/>
+
+    <category-assignment category-id="mens-shirts" product-id="mens-flannel-shirt"/>
+
+    <category-assignment category-id="mens-shirts" product-id="mens-linen-shirt"/>
+
+    <category-assignment category-id="mens-shirts" product-id="mens-oxford-shirt"/>
+
+    <category-assignment category-id="mens-shoes" product-id="mens-desert-boots"/>
+
+    <category-assignment category-id="mens-shoes" product-id="mens-leather-oxford"/>
+
+    <category-assignment category-id="mens-shoes" product-id="mens-leather-sneakers"/>
+
+    <category-assignment category-id="mens-shoes" product-id="mens-running-shoes"/>
+
+    <category-assignment category-id="mens-shoes" product-id="mens-suede-loafers"/>
+
+    <category-assignment category-id="mens-trousers" product-id="mens-cargo-pants"/>
+
+    <category-assignment category-id="mens-trousers" product-id="mens-joggers"/>
+
+    <category-assignment category-id="mens-trousers" product-id="mens-linen-trousers"/>
+
+    <category-assignment category-id="mens-trousers" product-id="mens-straight-jeans"/>
+
+    <category-assignment category-id="mens-trousers" product-id="mens-tailored-trousers"/>
+
+    <category-assignment category-id="mens-tshirts-polos" product-id="mens-essential-tee"/>
+
+    <category-assignment category-id="mens-tshirts-polos" product-id="mens-henley"/>
+
+    <category-assignment category-id="mens-tshirts-polos" product-id="mens-long-sleeve-polo"/>
+
+    <category-assignment category-id="mens-tshirts-polos" product-id="mens-pique-polo"/>
+
+    <category-assignment category-id="mens-tshirts-polos" product-id="mens-striped-tee"/>
+
+    <category-assignment category-id="womens-accessories" product-id="womens-leather-belt"/>
+
+    <category-assignment category-id="womens-accessories" product-id="womens-leather-gloves"/>
+
+    <category-assignment category-id="womens-accessories" product-id="womens-silk-scarf"/>
+
+    <category-assignment category-id="womens-accessories" product-id="womens-sunglasses"/>
+
+    <category-assignment category-id="womens-accessories" product-id="womens-wool-beanie"/>
+
+    <category-assignment category-id="womens-bags" product-id="womens-backpack"/>
+
+    <category-assignment category-id="womens-bags" product-id="womens-clutch"/>
+
+    <category-assignment category-id="womens-bags" product-id="womens-crossbody-bag"/>
+
+    <category-assignment category-id="womens-bags" product-id="womens-leather-tote"/>
+
+    <category-assignment category-id="womens-bags" product-id="womens-shoulder-bag"/>
+
+    <category-assignment category-id="womens-bottoms" product-id="womens-cargo-pants"/>
+
+    <category-assignment category-id="womens-bottoms" product-id="womens-high-waist-jeans"/>
+
+    <category-assignment category-id="womens-bottoms" product-id="womens-leather-leggings"/>
+
+    <category-assignment category-id="womens-bottoms" product-id="womens-pleated-skirt"/>
+
+    <category-assignment category-id="womens-bottoms" product-id="womens-tailored-trousers"/>
+
+    <category-assignment category-id="womens-dresses" product-id="womens-knit-dress"/>
+
+    <category-assignment category-id="womens-dresses" product-id="womens-maxi-dress"/>
+
+    <category-assignment category-id="womens-dresses" product-id="womens-shirt-dress"/>
+
+    <category-assignment category-id="womens-dresses" product-id="womens-slip-dress"/>
+
+    <category-assignment category-id="womens-dresses" product-id="womens-wrap-dress"/>
+
+    <category-assignment category-id="womens-knitwear" product-id="womens-cable-knit-cardigan"/>
+
+    <category-assignment category-id="womens-knitwear" product-id="womens-cashmere-sweater"/>
+
+    <category-assignment category-id="womens-knitwear" product-id="womens-knit-vest"/>
+
+    <category-assignment category-id="womens-knitwear" product-id="womens-oversized-knit"/>
+
+    <category-assignment category-id="womens-knitwear" product-id="womens-turtleneck"/>
+
+    <category-assignment category-id="womens-new-in" product-id="womens-cropped-cardigan"/>
+
+    <category-assignment category-id="womens-new-in" product-id="womens-leather-ankle-boots"/>
+
+    <category-assignment category-id="womens-new-in" product-id="womens-oversized-blazer"/>
+
+    <category-assignment category-id="womens-new-in" product-id="womens-ribbed-tank-top"/>
+
+    <category-assignment category-id="womens-new-in" product-id="womens-silk-midi-dress"/>
+
+    <category-assignment category-id="womens-new-in" product-id="womens-wide-leg-trousers"/>
+
+    <category-assignment category-id="womens-outerwear" product-id="womens-bomber-jacket"/>
+
+    <category-assignment category-id="womens-outerwear" product-id="womens-denim-jacket"/>
+
+    <category-assignment category-id="womens-outerwear" product-id="womens-faux-fur-coat"/>
+
+    <category-assignment category-id="womens-outerwear" product-id="womens-leather-jacket"/>
+
+    <category-assignment category-id="womens-outerwear" product-id="womens-peacoat"/>
+
+    <category-assignment category-id="womens-outerwear" product-id="womens-puffer-jacket"/>
+
+    <category-assignment category-id="womens-outerwear" product-id="womens-trench-coat"/>
+
+    <category-assignment category-id="womens-outerwear" product-id="womens-windbreaker"/>
+
+    <category-assignment category-id="womens-outerwear" product-id="womens-wool-blend-coat"/>
+
+    <category-assignment category-id="womens-outerwear" product-id="womens-wool-coat"/>
+
+    <category-assignment category-id="womens-shoes" product-id="womens-ballet-flats"/>
+
+    <category-assignment category-id="womens-shoes" product-id="womens-heeled-sandals"/>
+
+    <category-assignment category-id="womens-shoes" product-id="womens-knee-high-boots"/>
+
+    <category-assignment category-id="womens-shoes" product-id="womens-leather-loafers"/>
+
+    <category-assignment category-id="womens-shoes" product-id="womens-sneakers"/>
+
+    <category-assignment category-id="womens-tops" product-id="womens-bodysuit"/>
+
+    <category-assignment category-id="womens-tops" product-id="womens-cotton-tee"/>
+
+    <category-assignment category-id="womens-tops" product-id="womens-crop-top"/>
+
+    <category-assignment category-id="womens-tops" product-id="womens-linen-shirt"/>
+
+    <category-assignment category-id="womens-tops" product-id="womens-silk-blouse"/>
+
+</catalog>
