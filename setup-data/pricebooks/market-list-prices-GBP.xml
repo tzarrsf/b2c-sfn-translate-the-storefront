@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <pricebooks xmlns="http://www.demandware.com/xml/impex/pricebook/2006-10-31">
     <pricebook>
-        <header pricebook-id="market-list-prices">
+        <header pricebook-id="market-list-prices-GBP">
             <currency>GBP</currency>
             <display-name xml:lang="x-default">Market Street List Prices</display-name>
             <online-flag>true</online-flag>
