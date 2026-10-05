@@ -137,13 +137,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="cream">
-                            <display-value xml:lang="x-default">Cream</display-value>
+                            <display-value xml:lang="x-default">Panna</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="gray">
-                            <display-value xml:lang="x-default">Gray</display-value>
+                            <display-value xml:lang="x-default">Grigio</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="pink">
-                            <display-value xml:lang="x-default">Pink</display-value>
+                            <display-value xml:lang="x-default">Rosa</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -665,13 +665,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="pink">
-                            <display-value xml:lang="x-default">Pink</display-value>
+                            <display-value xml:lang="x-default">Rosa</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="white">
-                            <display-value xml:lang="x-default">White</display-value>
+                            <display-value xml:lang="x-default">Bianco</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="yellow">
-                            <display-value xml:lang="x-default">Yellow</display-value>
+                            <display-value xml:lang="x-default">Giallo</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -1194,13 +1194,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="white">
-                            <display-value xml:lang="x-default">White</display-value>
+                            <display-value xml:lang="x-default">Bianco</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="pink">
-                            <display-value xml:lang="x-default">Pink</display-value>
+                            <display-value xml:lang="x-default">Rosa</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="blue">
-                            <display-value xml:lang="x-default">Blue</display-value>
+                            <display-value xml:lang="x-default">Blu</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -1722,13 +1722,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="gray">
-                            <display-value xml:lang="x-default">Gray</display-value>
+                            <display-value xml:lang="x-default">Grigio</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="cream">
-                            <display-value xml:lang="x-default">Cream</display-value>
+                            <display-value xml:lang="x-default">Panna</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -2250,13 +2250,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="gray">
-                            <display-value xml:lang="x-default">Gray</display-value>
+                            <display-value xml:lang="x-default">Grigio</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="yellow">
-                            <display-value xml:lang="x-default">Yellow</display-value>
+                            <display-value xml:lang="x-default">Giallo</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="mint">
-                            <display-value xml:lang="x-default">Mint</display-value>
+                            <display-value xml:lang="x-default">Menta</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -2778,13 +2778,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="white">
-                            <display-value xml:lang="x-default">White</display-value>
+                            <display-value xml:lang="x-default">Bianco</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="blue">
-                            <display-value xml:lang="x-default">Blue</display-value>
+                            <display-value xml:lang="x-default">Blu</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -3882,13 +3882,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="beige">
                             <display-value xml:lang="x-default">Beige</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="gray">
-                            <display-value xml:lang="x-default">Gray</display-value>
+                            <display-value xml:lang="x-default">Grigio</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -4987,13 +4987,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="white">
-                            <display-value xml:lang="x-default">White</display-value>
+                            <display-value xml:lang="x-default">Bianco</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="red">
-                            <display-value xml:lang="x-default">Red</display-value>
+                            <display-value xml:lang="x-default">Rosso</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -6091,13 +6091,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="olive">
-                            <display-value xml:lang="x-default">Olive</display-value>
+                            <display-value xml:lang="x-default">Oliva</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="gray">
-                            <display-value xml:lang="x-default">Gray</display-value>
+                            <display-value xml:lang="x-default">Grigio</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -7195,13 +7195,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="gray">
-                            <display-value xml:lang="x-default">Gray</display-value>
+                            <display-value xml:lang="x-default">Grigio</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="burgundy">
-                            <display-value xml:lang="x-default">Burgundy</display-value>
+                            <display-value xml:lang="x-default">Bordeaux</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -8299,13 +8299,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="pink">
-                            <display-value xml:lang="x-default">Pink</display-value>
+                            <display-value xml:lang="x-default">Rosa</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="cream">
-                            <display-value xml:lang="x-default">Cream</display-value>
+                            <display-value xml:lang="x-default">Panna</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="gray">
-                            <display-value xml:lang="x-default">Gray</display-value>
+                            <display-value xml:lang="x-default">Grigio</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -9382,10 +9382,10 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="blue">
-                            <display-value xml:lang="x-default">Blue</display-value>
+                            <display-value xml:lang="x-default">Blu</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -10174,13 +10174,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="pink">
-                            <display-value xml:lang="x-default">Pink</display-value>
+                            <display-value xml:lang="x-default">Rosa</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="blue">
-                            <display-value xml:lang="x-default">Blue</display-value>
+                            <display-value xml:lang="x-default">Blu</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="yellow">
-                            <display-value xml:lang="x-default">Yellow</display-value>
+                            <display-value xml:lang="x-default">Giallo</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -11278,13 +11278,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="pink">
-                            <display-value xml:lang="x-default">Pink</display-value>
+                            <display-value xml:lang="x-default">Rosa</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="purple">
-                            <display-value xml:lang="x-default">Purple</display-value>
+                            <display-value xml:lang="x-default">Viola</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -12382,13 +12382,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="pink">
-                            <display-value xml:lang="x-default">Pink</display-value>
+                            <display-value xml:lang="x-default">Rosa</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="purple">
-                            <display-value xml:lang="x-default">Purple</display-value>
+                            <display-value xml:lang="x-default">Viola</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="blue">
-                            <display-value xml:lang="x-default">Blue</display-value>
+                            <display-value xml:lang="x-default">Blu</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -13487,13 +13487,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="pink">
-                            <display-value xml:lang="x-default">Pink</display-value>
+                            <display-value xml:lang="x-default">Rosa</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="gray">
-                            <display-value xml:lang="x-default">Gray</display-value>
+                            <display-value xml:lang="x-default">Grigio</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -13727,13 +13727,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="gray">
-                            <display-value xml:lang="x-default">Gray</display-value>
+                            <display-value xml:lang="x-default">Grigio</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="pink">
-                            <display-value xml:lang="x-default">Pink</display-value>
+                            <display-value xml:lang="x-default">Rosa</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -13967,13 +13967,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="brown">
-                            <display-value xml:lang="x-default">Brown</display-value>
+                            <display-value xml:lang="x-default">Marrone</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -14399,13 +14399,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="brown">
-                            <display-value xml:lang="x-default">Brown</display-value>
+                            <display-value xml:lang="x-default">Marrone</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="pink">
-                            <display-value xml:lang="x-default">Pink</display-value>
+                            <display-value xml:lang="x-default">Rosa</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -15386,10 +15386,10 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="blue">
-                            <display-value xml:lang="x-default">Blue</display-value>
+                            <display-value xml:lang="x-default">Blu</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -16177,13 +16177,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="gray">
-                            <display-value xml:lang="x-default">Gray</display-value>
+                            <display-value xml:lang="x-default">Grigio</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="pink">
-                            <display-value xml:lang="x-default">Pink</display-value>
+                            <display-value xml:lang="x-default">Rosa</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -16609,13 +16609,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="white">
-                            <display-value xml:lang="x-default">White</display-value>
+                            <display-value xml:lang="x-default">Bianco</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="gray">
-                            <display-value xml:lang="x-default">Gray</display-value>
+                            <display-value xml:lang="x-default">Grigio</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="blue">
-                            <display-value xml:lang="x-default">Blue</display-value>
+                            <display-value xml:lang="x-default">Blu</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -17714,13 +17714,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="gray">
-                            <display-value xml:lang="x-default">Gray</display-value>
+                            <display-value xml:lang="x-default">Grigio</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="pink">
-                            <display-value xml:lang="x-default">Pink</display-value>
+                            <display-value xml:lang="x-default">Rosa</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -18818,13 +18818,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="gray">
-                            <display-value xml:lang="x-default">Gray</display-value>
+                            <display-value xml:lang="x-default">Grigio</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -19922,13 +19922,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="brown">
-                            <display-value xml:lang="x-default">Brown</display-value>
+                            <display-value xml:lang="x-default">Marrone</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="pink">
-                            <display-value xml:lang="x-default">Pink</display-value>
+                            <display-value xml:lang="x-default">Rosa</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -20930,13 +20930,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="pink">
-                            <display-value xml:lang="x-default">Pink</display-value>
+                            <display-value xml:lang="x-default">Rosa</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -22034,13 +22034,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="brown">
-                            <display-value xml:lang="x-default">Brown</display-value>
+                            <display-value xml:lang="x-default">Marrone</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="pink">
-                            <display-value xml:lang="x-default">Pink</display-value>
+                            <display-value xml:lang="x-default">Rosa</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -23042,13 +23042,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="gray">
-                            <display-value xml:lang="x-default">Gray</display-value>
+                            <display-value xml:lang="x-default">Grigio</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="red">
-                            <display-value xml:lang="x-default">Red</display-value>
+                            <display-value xml:lang="x-default">Rosso</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -23282,13 +23282,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="gray">
-                            <display-value xml:lang="x-default">Gray</display-value>
+                            <display-value xml:lang="x-default">Grigio</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -24291,13 +24291,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="white">
-                            <display-value xml:lang="x-default">White</display-value>
+                            <display-value xml:lang="x-default">Bianco</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -25299,13 +25299,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="brown">
-                            <display-value xml:lang="x-default">Brown</display-value>
+                            <display-value xml:lang="x-default">Marrone</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -25539,13 +25539,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="olive">
-                            <display-value xml:lang="x-default">Olive</display-value>
+                            <display-value xml:lang="x-default">Oliva</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -26163,13 +26163,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="cream">
-                            <display-value xml:lang="x-default">Cream</display-value>
+                            <display-value xml:lang="x-default">Panna</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="gray">
-                            <display-value xml:lang="x-default">Gray</display-value>
+                            <display-value xml:lang="x-default">Grigio</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -26883,13 +26883,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="gray">
-                            <display-value xml:lang="x-default">Gray</display-value>
+                            <display-value xml:lang="x-default">Grigio</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -27603,10 +27603,10 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="olive">
-                            <display-value xml:lang="x-default">Olive</display-value>
+                            <display-value xml:lang="x-default">Oliva</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="beige">
                             <display-value xml:lang="x-default">Beige</display-value>
@@ -28324,13 +28324,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="brown">
-                            <display-value xml:lang="x-default">Brown</display-value>
+                            <display-value xml:lang="x-default">Marrone</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="tan">
-                            <display-value xml:lang="x-default">Tan</display-value>
+                            <display-value xml:lang="x-default">Cuoio</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -29524,13 +29524,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="blue">
-                            <display-value xml:lang="x-default">Blue</display-value>
+                            <display-value xml:lang="x-default">Blu</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="gray">
-                            <display-value xml:lang="x-default">Gray</display-value>
+                            <display-value xml:lang="x-default">Grigio</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -30148,13 +30148,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="blue">
-                            <display-value xml:lang="x-default">Blue</display-value>
+                            <display-value xml:lang="x-default">Blu</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="gray">
-                            <display-value xml:lang="x-default">Gray</display-value>
+                            <display-value xml:lang="x-default">Grigio</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -30868,13 +30868,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="sand">
-                            <display-value xml:lang="x-default">Sand</display-value>
+                            <display-value xml:lang="x-default">Sabbia</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="brown">
-                            <display-value xml:lang="x-default">Brown</display-value>
+                            <display-value xml:lang="x-default">Marrone</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -32068,13 +32068,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="white">
-                            <display-value xml:lang="x-default">White</display-value>
+                            <display-value xml:lang="x-default">Bianco</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="blue">
-                            <display-value xml:lang="x-default">Blue</display-value>
+                            <display-value xml:lang="x-default">Blu</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -32809,16 +32809,16 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="white">
-                            <display-value xml:lang="x-default">White</display-value>
+                            <display-value xml:lang="x-default">Bianco</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="gray">
-                            <display-value xml:lang="x-default">Gray</display-value>
+                            <display-value xml:lang="x-default">Grigio</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -33718,13 +33718,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="red">
-                            <display-value xml:lang="x-default">Red</display-value>
+                            <display-value xml:lang="x-default">Rosso</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="blue">
-                            <display-value xml:lang="x-default">Blue</display-value>
+                            <display-value xml:lang="x-default">Blu</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="gray">
-                            <display-value xml:lang="x-default">Gray</display-value>
+                            <display-value xml:lang="x-default">Grigio</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -34438,13 +34438,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="white">
-                            <display-value xml:lang="x-default">White</display-value>
+                            <display-value xml:lang="x-default">Bianco</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="gray">
-                            <display-value xml:lang="x-default">Gray</display-value>
+                            <display-value xml:lang="x-default">Grigio</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -35158,13 +35158,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="gray">
-                            <display-value xml:lang="x-default">Gray</display-value>
+                            <display-value xml:lang="x-default">Grigio</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -35878,13 +35878,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="gray">
-                            <display-value xml:lang="x-default">Gray</display-value>
+                            <display-value xml:lang="x-default">Grigio</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -36598,13 +36598,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="brown">
-                            <display-value xml:lang="x-default">Brown</display-value>
+                            <display-value xml:lang="x-default">Marrone</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="tan">
-                            <display-value xml:lang="x-default">Tan</display-value>
+                            <display-value xml:lang="x-default">Cuoio</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -37127,13 +37127,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="brown">
-                            <display-value xml:lang="x-default">Brown</display-value>
+                            <display-value xml:lang="x-default">Marrone</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="tan">
-                            <display-value xml:lang="x-default">Tan</display-value>
+                            <display-value xml:lang="x-default">Cuoio</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -37347,10 +37347,10 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="brown">
-                            <display-value xml:lang="x-default">Brown</display-value>
+                            <display-value xml:lang="x-default">Marrone</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -37814,13 +37814,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="brown">
-                            <display-value xml:lang="x-default">Brown</display-value>
+                            <display-value xml:lang="x-default">Marrone</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="tan">
-                            <display-value xml:lang="x-default">Tan</display-value>
+                            <display-value xml:lang="x-default">Cuoio</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -39014,13 +39014,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="white">
-                            <display-value xml:lang="x-default">White</display-value>
+                            <display-value xml:lang="x-default">Bianco</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -40215,13 +40215,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="brown">
-                            <display-value xml:lang="x-default">Brown</display-value>
+                            <display-value xml:lang="x-default">Marrone</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -40456,13 +40456,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="white">
-                            <display-value xml:lang="x-default">White</display-value>
+                            <display-value xml:lang="x-default">Bianco</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="beige">
                             <display-value xml:lang="x-default">Beige</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -41180,10 +41180,10 @@
                             <display-value xml:lang="x-default">Beige</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="white">
-                            <display-value xml:lang="x-default">White</display-value>
+                            <display-value xml:lang="x-default">Bianco</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -41897,13 +41897,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="burgundy">
-                            <display-value xml:lang="x-default">Burgundy</display-value>
+                            <display-value xml:lang="x-default">Bordeaux</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -42619,13 +42619,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="gray">
-                            <display-value xml:lang="x-default">Gray</display-value>
+                            <display-value xml:lang="x-default">Grigio</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -43339,13 +43339,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="brown">
-                            <display-value xml:lang="x-default">Brown</display-value>
+                            <display-value xml:lang="x-default">Marrone</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="olive">
-                            <display-value xml:lang="x-default">Olive</display-value>
+                            <display-value xml:lang="x-default">Oliva</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -43580,13 +43580,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="white">
-                            <display-value xml:lang="x-default">White</display-value>
+                            <display-value xml:lang="x-default">Bianco</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="blue">
-                            <display-value xml:lang="x-default">Blue</display-value>
+                            <display-value xml:lang="x-default">Blu</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="pink">
-                            <display-value xml:lang="x-default">Pink</display-value>
+                            <display-value xml:lang="x-default">Rosa</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -44322,16 +44322,16 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="white">
-                            <display-value xml:lang="x-default">White</display-value>
+                            <display-value xml:lang="x-default">Bianco</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="red">
-                            <display-value xml:lang="x-default">Red</display-value>
+                            <display-value xml:lang="x-default">Rosso</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -45231,13 +45231,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="olive">
-                            <display-value xml:lang="x-default">Olive</display-value>
+                            <display-value xml:lang="x-default">Oliva</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -45855,13 +45855,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="white">
-                            <display-value xml:lang="x-default">White</display-value>
+                            <display-value xml:lang="x-default">Bianco</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -46575,13 +46575,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="white">
-                            <display-value xml:lang="x-default">White</display-value>
+                            <display-value xml:lang="x-default">Bianco</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="gray">
-                            <display-value xml:lang="x-default">Gray</display-value>
+                            <display-value xml:lang="x-default">Grigio</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -47775,13 +47775,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="burgundy">
-                            <display-value xml:lang="x-default">Burgundy</display-value>
+                            <display-value xml:lang="x-default">Bordeaux</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -48015,13 +48015,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="beige">
                             <display-value xml:lang="x-default">Beige</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="olive">
-                            <display-value xml:lang="x-default">Olive</display-value>
+                            <display-value xml:lang="x-default">Oliva</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -48735,13 +48735,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="blue">
-                            <display-value xml:lang="x-default">Blue</display-value>
+                            <display-value xml:lang="x-default">Blu</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="gray">
-                            <display-value xml:lang="x-default">Gray</display-value>
+                            <display-value xml:lang="x-default">Grigio</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -49455,13 +49455,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="red">
-                            <display-value xml:lang="x-default">Red</display-value>
+                            <display-value xml:lang="x-default">Rosso</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -50175,13 +50175,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="brown">
-                            <display-value xml:lang="x-default">Brown</display-value>
+                            <display-value xml:lang="x-default">Marrone</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -51375,13 +51375,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="gold">
-                            <display-value xml:lang="x-default">Gold</display-value>
+                            <display-value xml:lang="x-default">Oro</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="silver">
-                            <display-value xml:lang="x-default">Silver</display-value>
+                            <display-value xml:lang="x-default">Argento</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -51616,13 +51616,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="gray">
-                            <display-value xml:lang="x-default">Gray</display-value>
+                            <display-value xml:lang="x-default">Grigio</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -52241,13 +52241,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="gray">
-                            <display-value xml:lang="x-default">Gray</display-value>
+                            <display-value xml:lang="x-default">Grigio</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -52961,13 +52961,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="brown">
-                            <display-value xml:lang="x-default">Brown</display-value>
+                            <display-value xml:lang="x-default">Marrone</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="tan">
-                            <display-value xml:lang="x-default">Tan</display-value>
+                            <display-value xml:lang="x-default">Cuoio</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -53204,10 +53204,10 @@
                             <display-value xml:lang="x-default">Beige</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -53825,13 +53825,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="cream">
-                            <display-value xml:lang="x-default">Cream</display-value>
+                            <display-value xml:lang="x-default">Panna</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -54545,13 +54545,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="brown">
-                            <display-value xml:lang="x-default">Brown</display-value>
+                            <display-value xml:lang="x-default">Marrone</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -54787,13 +54787,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="camel">
-                            <display-value xml:lang="x-default">Camel</display-value>
+                            <display-value xml:lang="x-default">Cammello</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -55411,13 +55411,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="gray">
-                            <display-value xml:lang="x-default">Gray</display-value>
+                            <display-value xml:lang="x-default">Grigio</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="burgundy">
-                            <display-value xml:lang="x-default">Burgundy</display-value>
+                            <display-value xml:lang="x-default">Bordeaux</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -55651,13 +55651,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="gray">
-                            <display-value xml:lang="x-default">Gray</display-value>
+                            <display-value xml:lang="x-default">Grigio</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -56371,13 +56371,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="brown">
-                            <display-value xml:lang="x-default">Brown</display-value>
+                            <display-value xml:lang="x-default">Marrone</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -56611,13 +56611,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="nude">
                             <display-value xml:lang="x-default">Nude</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="red">
-                            <display-value xml:lang="x-default">Red</display-value>
+                            <display-value xml:lang="x-default">Rosso</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -57811,10 +57811,10 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="white">
-                            <display-value xml:lang="x-default">White</display-value>
+                            <display-value xml:lang="x-default">Bianco</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="nude">
                             <display-value xml:lang="x-default">Nude</display-value>
@@ -58531,13 +58531,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="olive">
-                            <display-value xml:lang="x-default">Olive</display-value>
+                            <display-value xml:lang="x-default">Oliva</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -59155,13 +59155,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="cream">
-                            <display-value xml:lang="x-default">Cream</display-value>
+                            <display-value xml:lang="x-default">Panna</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="gray">
-                            <display-value xml:lang="x-default">Gray</display-value>
+                            <display-value xml:lang="x-default">Grigio</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -59875,10 +59875,10 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="olive">
-                            <display-value xml:lang="x-default">Olive</display-value>
+                            <display-value xml:lang="x-default">Oliva</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="beige">
                             <display-value xml:lang="x-default">Beige</display-value>
@@ -60596,13 +60596,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="gray">
-                            <display-value xml:lang="x-default">Gray</display-value>
+                            <display-value xml:lang="x-default">Grigio</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="camel">
-                            <display-value xml:lang="x-default">Camel</display-value>
+                            <display-value xml:lang="x-default">Cammello</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -61316,13 +61316,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="gold">
-                            <display-value xml:lang="x-default">Gold</display-value>
+                            <display-value xml:lang="x-default">Oro</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="silver">
-                            <display-value xml:lang="x-default">Silver</display-value>
+                            <display-value xml:lang="x-default">Argento</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -61577,16 +61577,16 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="white">
-                            <display-value xml:lang="x-default">White</display-value>
+                            <display-value xml:lang="x-default">Bianco</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="gray">
-                            <display-value xml:lang="x-default">Gray</display-value>
+                            <display-value xml:lang="x-default">Grigio</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -62486,13 +62486,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="white">
-                            <display-value xml:lang="x-default">White</display-value>
+                            <display-value xml:lang="x-default">Bianco</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="pink">
-                            <display-value xml:lang="x-default">Pink</display-value>
+                            <display-value xml:lang="x-default">Rosa</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -63209,10 +63209,10 @@
                             <display-value xml:lang="x-default">Beige</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="gray">
-                            <display-value xml:lang="x-default">Gray</display-value>
+                            <display-value xml:lang="x-default">Grigio</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="pink">
-                            <display-value xml:lang="x-default">Pink</display-value>
+                            <display-value xml:lang="x-default">Rosa</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -63926,13 +63926,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="brown">
-                            <display-value xml:lang="x-default">Brown</display-value>
+                            <display-value xml:lang="x-default">Marrone</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="burgundy">
-                            <display-value xml:lang="x-default">Burgundy</display-value>
+                            <display-value xml:lang="x-default">Bordeaux</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -64166,13 +64166,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="blue">
-                            <display-value xml:lang="x-default">Blue</display-value>
+                            <display-value xml:lang="x-default">Blu</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="white">
-                            <display-value xml:lang="x-default">White</display-value>
+                            <display-value xml:lang="x-default">Bianco</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -64793,10 +64793,10 @@
                             <display-value xml:lang="x-default">Beige</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="gray">
-                            <display-value xml:lang="x-default">Gray</display-value>
+                            <display-value xml:lang="x-default">Grigio</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -65414,13 +65414,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="nude">
                             <display-value xml:lang="x-default">Nude</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="gold">
-                            <display-value xml:lang="x-default">Gold</display-value>
+                            <display-value xml:lang="x-default">Oro</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -66615,13 +66615,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="blue">
-                            <display-value xml:lang="x-default">Blue</display-value>
+                            <display-value xml:lang="x-default">Blu</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="white">
-                            <display-value xml:lang="x-default">White</display-value>
+                            <display-value xml:lang="x-default">Bianco</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -67314,10 +67314,10 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="brown">
-                            <display-value xml:lang="x-default">Brown</display-value>
+                            <display-value xml:lang="x-default">Marrone</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -68170,10 +68170,10 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="gray">
-                            <display-value xml:lang="x-default">Gray</display-value>
+                            <display-value xml:lang="x-default">Grigio</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="beige">
                             <display-value xml:lang="x-default">Beige</display-value>
@@ -68890,13 +68890,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="gray">
-                            <display-value xml:lang="x-default">Gray</display-value>
+                            <display-value xml:lang="x-default">Grigio</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="cream">
-                            <display-value xml:lang="x-default">Cream</display-value>
+                            <display-value xml:lang="x-default">Panna</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -69611,13 +69611,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="brown">
-                            <display-value xml:lang="x-default">Brown</display-value>
+                            <display-value xml:lang="x-default">Marrone</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="tan">
-                            <display-value xml:lang="x-default">Tan</display-value>
+                            <display-value xml:lang="x-default">Cuoio</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -70811,13 +70811,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="brown">
-                            <display-value xml:lang="x-default">Brown</display-value>
+                            <display-value xml:lang="x-default">Marrone</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="tan">
-                            <display-value xml:lang="x-default">Tan</display-value>
+                            <display-value xml:lang="x-default">Cuoio</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -71243,13 +71243,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="brown">
-                            <display-value xml:lang="x-default">Brown</display-value>
+                            <display-value xml:lang="x-default">Marrone</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="burgundy">
-                            <display-value xml:lang="x-default">Burgundy</display-value>
+                            <display-value xml:lang="x-default">Bordeaux</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -71656,10 +71656,10 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="brown">
-                            <display-value xml:lang="x-default">Brown</display-value>
+                            <display-value xml:lang="x-default">Marrone</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -72101,10 +72101,10 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="brown">
-                            <display-value xml:lang="x-default">Brown</display-value>
+                            <display-value xml:lang="x-default">Marrone</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -72633,13 +72633,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="brown">
-                            <display-value xml:lang="x-default">Brown</display-value>
+                            <display-value xml:lang="x-default">Marrone</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="burgundy">
-                            <display-value xml:lang="x-default">Burgundy</display-value>
+                            <display-value xml:lang="x-default">Bordeaux</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -73834,13 +73834,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="tan">
-                            <display-value xml:lang="x-default">Tan</display-value>
+                            <display-value xml:lang="x-default">Cuoio</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -74075,13 +74075,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="white">
-                            <display-value xml:lang="x-default">White</display-value>
+                            <display-value xml:lang="x-default">Bianco</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="beige">
                             <display-value xml:lang="x-default">Beige</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="blue">
-                            <display-value xml:lang="x-default">Blue</display-value>
+                            <display-value xml:lang="x-default">Blu</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -74795,13 +74795,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="burgundy">
-                            <display-value xml:lang="x-default">Burgundy</display-value>
+                            <display-value xml:lang="x-default">Bordeaux</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -75516,10 +75516,10 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="beige">
                             <display-value xml:lang="x-default">Beige</display-value>
@@ -76143,10 +76143,10 @@
                             <display-value xml:lang="x-default">Beige</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="gray">
-                            <display-value xml:lang="x-default">Gray</display-value>
+                            <display-value xml:lang="x-default">Grigio</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -76860,13 +76860,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="gray">
-                            <display-value xml:lang="x-default">Gray</display-value>
+                            <display-value xml:lang="x-default">Grigio</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -77484,10 +77484,10 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="beige">
                             <display-value xml:lang="x-default">Beige</display-value>
@@ -78204,13 +78204,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="olive">
-                            <display-value xml:lang="x-default">Olive</display-value>
+                            <display-value xml:lang="x-default">Oliva</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -78828,10 +78828,10 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="white">
-                            <display-value xml:lang="x-default">White</display-value>
+                            <display-value xml:lang="x-default">Bianco</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="beige">
                             <display-value xml:lang="x-default">Beige</display-value>
@@ -79548,10 +79548,10 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="white">
-                            <display-value xml:lang="x-default">White</display-value>
+                            <display-value xml:lang="x-default">Bianco</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="blue">
-                            <display-value xml:lang="x-default">Blue</display-value>
+                            <display-value xml:lang="x-default">Blu</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="beige">
                             <display-value xml:lang="x-default">Beige</display-value>
@@ -80268,13 +80268,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="tan">
-                            <display-value xml:lang="x-default">Tan</display-value>
+                            <display-value xml:lang="x-default">Cuoio</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="olive">
-                            <display-value xml:lang="x-default">Olive</display-value>
+                            <display-value xml:lang="x-default">Oliva</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -80509,13 +80509,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="white">
-                            <display-value xml:lang="x-default">White</display-value>
+                            <display-value xml:lang="x-default">Bianco</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="ivory">
-                            <display-value xml:lang="x-default">Ivory</display-value>
+                            <display-value xml:lang="x-default">Avorio</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -81230,13 +81230,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="pink">
-                            <display-value xml:lang="x-default">Pink</display-value>
+                            <display-value xml:lang="x-default">Rosa</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -81854,13 +81854,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="red">
-                            <display-value xml:lang="x-default">Red</display-value>
+                            <display-value xml:lang="x-default">Rosso</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -82094,13 +82094,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="champagne">
                             <display-value xml:lang="x-default">Champagne</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -82814,13 +82814,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="white">
-                            <display-value xml:lang="x-default">White</display-value>
+                            <display-value xml:lang="x-default">Bianco</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -84014,13 +84014,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="tortoise">
-                            <display-value xml:lang="x-default">Tortoise</display-value>
+                            <display-value xml:lang="x-default">Tartarugato</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="gold">
-                            <display-value xml:lang="x-default">Gold</display-value>
+                            <display-value xml:lang="x-default">Oro</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -84254,13 +84254,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="gray">
-                            <display-value xml:lang="x-default">Gray</display-value>
+                            <display-value xml:lang="x-default">Grigio</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -84978,10 +84978,10 @@
                             <display-value xml:lang="x-default">Beige</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -85600,13 +85600,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="cream">
-                            <display-value xml:lang="x-default">Cream</display-value>
+                            <display-value xml:lang="x-default">Panna</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="gray">
-                            <display-value xml:lang="x-default">Gray</display-value>
+                            <display-value xml:lang="x-default">Grigio</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -86320,13 +86320,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="cream">
-                            <display-value xml:lang="x-default">Cream</display-value>
+                            <display-value xml:lang="x-default">Panna</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -87040,13 +87040,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="pink">
-                            <display-value xml:lang="x-default">Pink</display-value>
+                            <display-value xml:lang="x-default">Rosa</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -87664,13 +87664,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="gray">
-                            <display-value xml:lang="x-default">Gray</display-value>
+                            <display-value xml:lang="x-default">Grigio</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="cream">
-                            <display-value xml:lang="x-default">Cream</display-value>
+                            <display-value xml:lang="x-default">Panna</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -87904,13 +87904,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="gray">
-                            <display-value xml:lang="x-default">Gray</display-value>
+                            <display-value xml:lang="x-default">Grigio</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="camel">
-                            <display-value xml:lang="x-default">Camel</display-value>
+                            <display-value xml:lang="x-default">Cammello</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -88530,13 +88530,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="camel">
-                            <display-value xml:lang="x-default">Camel</display-value>
+                            <display-value xml:lang="x-default">Cammello</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
@@ -89251,13 +89251,13 @@
                     <display-name xml:lang="x-default">Colore</display-name>
                     <variation-attribute-values>
                         <variation-attribute-value value="black">
-                            <display-value xml:lang="x-default">Black</display-value>
+                            <display-value xml:lang="x-default">Nero</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="red">
-                            <display-value xml:lang="x-default">Red</display-value>
+                            <display-value xml:lang="x-default">Rosso</display-value>
                         </variation-attribute-value>
                         <variation-attribute-value value="navy">
-                            <display-value xml:lang="x-default">Navy</display-value>
+                            <display-value xml:lang="x-default">Blu navy</display-value>
                         </variation-attribute-value>
                     </variation-attribute-values>
                 </variation-attribute>
